@@ -1,0 +1,5 @@
+{
+  "name": "TempoCard - Virtual International Payments",
+  "description": "A secure, time-bound virtual card service for Indian users to pay for international subscriptions via UPI.",
+  "requestFramePermissions": []
+}
