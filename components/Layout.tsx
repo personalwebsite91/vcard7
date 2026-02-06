@@ -88,7 +88,7 @@ const Layout: React.FC<LayoutProps> = ({ children, user, onLogout }) => {
             <span className="text-lg font-black tracking-tighter text-slate-300">VCard</span>
           </div>
           <p className="max-w-md mx-auto leading-relaxed">
-            &copy; 2024 VCard Fintech by Shaktiind Technologies Pvt Ltd. <br />
+            &copy; 2026 VCard Fintech by Shaktiind Technologies Pvt Ltd. <br />
             Prototype for educational purposes only. No actual financial transactions occur.
           </p>
           <div className="flex justify-center gap-8 font-bold uppercase tracking-widest text-[9px]">
